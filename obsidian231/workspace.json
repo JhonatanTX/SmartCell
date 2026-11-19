@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "e792afbe8d7895ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f7e4bb747fcb949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1085bb24cbe58c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8fc0ae9f5347a31",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4fec5569a5c9183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30ed1473ca7e0b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c934ec5661fec74e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b8540b9f65338a48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09b6d884acaa9f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ecf4f559831ac21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da7d6fa941c8585f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "86e0701a93e06c53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "697ff73c9b15f11b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "31007456cc4682e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "99516063d5eb6a9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "d1085bb24cbe58c8",
+  "lastOpenFiles": [
+    "public/static/giscus/dark.css",
+    "public/static/giscus/light.css",
+    "public/static/resource-style-d2eefd3a.css",
+    "public/static/resource-style-d3a1a224.css",
+    "public/static/resource-style-a71023bb.css",
+    "public/static/resource-style-a5c806d2.css",
+    "public/static/resource-style-9857b007.css",
+    "public/static/resource-style-89d3cd78.css",
+    "public/static/resource-style-26a99b87.css",
+    "public/static/resource-style-11d41004.css",
+    "public/static/resource-style-0be4fa7f.css",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/tags/index-og-image.webp",
+    "public/tags/marca-og-image.webp",
+    "public/tags/inicio-og-image.webp",
+    "public/marcas/index-og-image.webp",
+    "public/index-og-image.webp",
+    "public/visión-og-image.webp",
+    "public/tipos-de-celulares-og-image.webp",
+    "public/razón-de-ser-og-image.webp",
+    "content/Por qué elegir SmartCell.md",
+    "content/Orientación personalizada.md",
+    "content/Oferta.md",
+    "content/Marcas.md",
+    "content/Innovación.md",
+    "content/Inicio.md",
+    "content/index.md",
+    "content/Confianza.md",
+    "content/Accesorios.md",
+    "content/Celulares.md",
+    "content/Compromiso.md",
+    "content/Conócenos.md",
+    "content/Visión.md",
+    "content/Tipos de celulares.md"
+  ]
+}
